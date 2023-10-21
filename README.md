@@ -1,5 +1,5 @@
-# Feature_Encoding_Scaling
-# Ex:05 Feature Generation
+# EX:05 Feature Encoding & Scaling
+
 # AIM
 To read the given data and perform Feature Generation process and save the data to a file.
 
